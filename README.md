@@ -18,7 +18,7 @@ The repository is organized into subfolders, with each folder dedicated to a spe
 
 1. **Bambu**  
    A high-level synthesis (HLS) tool that converts C/C++ code into Verilog/VHDL for FPGA and ASIC design.  
-   [Explore the Bambu Folder](./Bambu/README.md)
+   [Explore the Bambu Folder](./Bambu/Readme.md)
 
 2. **Icarus Verilog**  
    An open-source Verilog simulation tool used for designing and verifying digital systems.  
