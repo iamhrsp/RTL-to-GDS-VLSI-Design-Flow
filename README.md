@@ -22,7 +22,7 @@ The repository is organized into subfolders, with each folder dedicated to a spe
 
 2. **Icarus Verilog**  
    An open-source Verilog simulation tool used for designing and verifying digital systems.  
-   [Explore the Icarus Folder](./Icarus%20Verilog/README.md)
+   [Explore the Icarus Folder](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/tree/main/Icarus%20Verilog)
 
 3. **Yosys**  
    A versatile open-source synthesis tool for Verilog designs, widely used for FPGA development.  
