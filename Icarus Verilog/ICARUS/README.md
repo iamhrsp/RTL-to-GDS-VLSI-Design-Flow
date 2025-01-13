@@ -137,26 +137,26 @@ This section demonstrates how to simulate a Verilog design and visualize the out
 
 ## Steps to Simulate and View Output
 
-##  A directory named ```icarus_codes``` is created to organize the Verilog design and testbench files and showcase a simulation example.
+A directory named ```icarus_codes``` is created to organize the Verilog design and testbench files and showcase a simulation example.
 
-**Navigate to the new directory**
+Navigate to the new directory
 ```bash
 cd icarus_codes
 ```
 
-**A Verilog design file (Mycounter.v) and testbench file (Testbench.v) is present in this directory**
+A Verilog design file (Mycounter.v) and testbench file (Testbench.v) is present in this directory
 
-**Compile the Verilog design and testbench from the same directory containing the files. The iverilog command compiles Mycounter.v and Testbench.v into an executable file named Mycounter in the same directory.**
+Compile the Verilog design and testbench from the same directory containing the files. The iverilog command compiles Mycounter.v and Testbench.v into an executable file named Mycounter in the same directory.
 ```bash
 iverilog -o Mycounter Mycounter.v Testbench.v
 ```
 
-**Run the compiled simulation. The vvp command executes the compiled file, generating a dump file (count.vcd) as specified in the testbench.**
+Run the compiled simulation. The vvp command executes the compiled file, generating a dump file (count.vcd) as specified in the testbench.
 ```bash
 vvp Mycounter
 ```
 
-**View the waveform output in GTKWave. The gtkwave command opens the count.vcd file in GTKWave for waveform analysis.**
+View the waveform output in GTKWave. The gtkwave command opens the count.vcd file in GTKWave for waveform analysis.
 ```bash
 gtkwave count.vcd
 ```
