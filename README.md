@@ -2,7 +2,7 @@
 
 Welcome to the **RTL to GDS VLSI Tool Repository**, a comprehensive resource for understanding, installing, and working with various tools used in the **VLSI design flow** from RTL (Register Transfer Level) to GDS (Graphic Data System). This repository is primarily intended for beginners and students looking to explore, learn, and understand the open-source VLSI tools.
 
-![Flow Diagram]([diagram.png](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/diagram.png)
+![Flow Diagram](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/diagram.png)
 
 ---
 
