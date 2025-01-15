@@ -29,7 +29,7 @@ The repository is organized into subfolders, with each folder dedicated to a spe
    [Explore the Icarus Folder](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/tree/main/Icarus%20Verilog)
 
 3. **COVERED**  
-   An open-source quality assesment tool. It helps estimate how much of the RTL design has been exercised by a given testbench. This folder is found inside the Icarus Verilog. 
+   An open-source quality assesment tool. It helps estimate how much of the RTL design has been exercised by a given testbench. This folder is found inside the Icarus Verilog.  
    [Explore the COVERED Folder](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/tree/main/Icarus%20Verilog/COVERED)
 
 4. **Yosys**  
