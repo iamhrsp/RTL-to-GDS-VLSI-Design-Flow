@@ -68,8 +68,10 @@ To gain hands-on experience with **High-Level Synthesis (HLS)** using **Bambu HL
    sudo apt install libfuse2
    ```
    Once it is done, Bambu installation completion can be checked using this command ```./bambu-0.9.7.AppImage```
+   This is how the terminal displays that the bambu installation has successfully completed.
+   ![bambu](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/Bambu/Screenshot%20from%202025-02-03%2014-21-33.png)
 
-6. **Run the tool:**
+7. **Run the tool:**
    ```bash
    ./bambu-0.9.7.AppImage <path-to-c-file> --top-fname=<accelerator-function-to-be-implemented-in-hardware>
    ```
