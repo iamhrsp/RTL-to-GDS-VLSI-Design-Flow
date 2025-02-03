@@ -106,7 +106,8 @@ long func(int j, int k, int c, int d)
     return i;
 }
 ```
-
+After running the command, **func.v** file will be created in the directory which is the required synthesizable verilog file.
+![verilog file](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/Bambu/Screenshot%20from%202025-02-03%2014-36-34.png)
 ---
 
 ## Additional Resources.
