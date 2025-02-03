@@ -156,7 +156,15 @@ Run the compiled simulation. The vvp command executes the compiled file, generat
 vvp Mycounter
 ```
 
+This is how the generated output looks like in the terminal. 
+![vvp output](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/Icarus%20Verilog/ICARUS/icarus_codes/1.png)
+
+In order to observe the outputs in a more interactive way, we use the open source tool gtkwave as demonstrated below:
+
 View the waveform output in GTKWave. The gtkwave command opens the count.vcd file in GTKWave for waveform analysis.
 ```bash
 gtkwave count.vcd
 ```
+Output from gtkwave
+![gtkwave output](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/Icarus%20Verilog/ICARUS/icarus_codes/2.png)
+
