@@ -115,4 +115,6 @@ b. To view the coverage report, execute:
 ```bash
    covered report -d v Mycounter.cdd
 ```
+This is how the terminal displays the coverage report. Notice how the tool has various section, for example combinational section, toggle section etc.
+![report](https://github.com/iamhrsp/RTL-to-GDS-VLSI-Design-Flow/blob/main/Icarus%20Verilog/ICARUS/icarus_codes/3.png)
 
